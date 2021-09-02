@@ -1,4 +1,7 @@
 # Ant
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
 - task: VSBuild@1
   inputs:
     solution: '**\*.sln'
