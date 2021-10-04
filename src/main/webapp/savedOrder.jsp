@@ -106,7 +106,7 @@
                     <tr>
                         <th>No</th>
                         <th>OrderNum</th>
-                        <th>DeviceName</th>
+                        <th>RoomName</th>
                         <th>Price</th>
                         <th>Count</th>
                         <th>Amount</th>

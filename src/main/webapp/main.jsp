@@ -97,13 +97,13 @@
                 <%--Staff--%>
                 <c:if test="${sysUser.roleType==2}">
                     <div class="mu-item">
-                        <a target="ifm" href="device?method=list">Device Manage</a>
+                        <a target="ifm" href="device?method=list">Room Manage</a>
                     </div>
                 </c:if>
                 <%--Customer--%>
                 <c:if test="${sysUser.roleType==3}">
                     <div class="mu-item">
-                        <a target="ifm" href="device?method=list">Device Manage</a>
+                        <a target="ifm" href="device?method=list">Room Manage</a>
                     </div>
                     <div class="mu-item mu-list">
                         <a href="javascript:void(0);">Orders Manage</a>

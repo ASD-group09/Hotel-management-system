@@ -92,8 +92,8 @@
                 <thead>
                     <tr>
                         <th>No</th>
-                        <th>DeviceName</th>
-                        <th>DeviceType</th>
+                        <th>RoomName</th>
+                        <th>RoomType</th>
                         <th>UnitPrice</th>
                         <th>Stock</th>
                         <th>Action</th>
