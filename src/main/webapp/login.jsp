@@ -75,6 +75,7 @@
   <body>
     <div class="root">
       <div class="wrap">
+      	<a href="index.html"  style="color: black">Main page</a>
         <div class="title">Login</div>
         <form action="user" method="post" id="loginForm">
           <input type="hidden" name="method" value="login">

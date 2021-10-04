@@ -69,6 +69,7 @@
   <body>
     <div class="root">
       <div class="wrap">
+      <a href="index.html"  style="color: black">Main page</a>
         <div class="title">Create your account</div>
         <form action="user" method="post" id="regForm">
           <input type="hidden" name="method" value="register">

@@ -78,8 +78,8 @@
     <div class="header">
         <form action="device?method=list" method="post" id="h-form">
             <table>
-                <td><input type="text" name="deviceName" value="${param.deviceName}" placeholder="deviceName"></td>
-                <td><input type="text" name="deviceType" value="${param.deviceType}" placeholder="deviceType"></td>
+                <td><input type="text" name="deviceName" value="${param.deviceName}" placeholder="RoomName"></td>
+                <td><input type="text" name="deviceType" value="${param.deviceType}" placeholder="RoomType"></td>
                 <td><button type="button" id="h-button">search</button></td>
                 <td><button type="button" id="h-button-add">add</button></td>
             </table>
@@ -92,8 +92,8 @@
                 <thead>
                     <tr>
                         <th>No</th>
-                        <th>DeviceName</th>
-                        <th>DeviceType</th>
+                        <th>RoomName</th>
+                        <th>RoomType</th>
                         <th>UnitPrice</th>
                         <th>Stock</th>
                         <th>Action</th>
@@ -137,12 +137,12 @@
             <input type="hidden" name="id">
             <table>
                 <tr>
-                    <td>DeviceName</td>
-                    <td><input type="text" name = "deviceName" placeholder="deviceName"></td>
+                    <td>RoomName</td>
+                    <td><input type="text" name = "deviceName" placeholder="RoomName"></td>
                 </tr>
                 <tr>
-                    <td>DeviceType</td>
-                    <td><input type="text" name="deviceType" placeholder="deviceType"></td>
+                    <td>RoomType</td>
+                    <td><input type="text" name="deviceType" placeholder="RoomType"></td>
                 </tr>
                 <tr>
                     <td>UnitPrice</td>
@@ -169,11 +169,11 @@
             <input type="hidden" name="deviceId">
             <table>
                 <tr>
-                    <td>DeviceName</td>
+                    <td>RoomName</td>
                     <td><input type="text" name = "deviceName" readonly></td>
                 </tr>
                 <tr>
-                    <td>DeviceType</td>
+                    <td>RoomType</td>
                     <td><input type="text" name="deviceType" readonly></td>
                 </tr>
                 <tr>
