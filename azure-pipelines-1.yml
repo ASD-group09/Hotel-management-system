@@ -33,7 +33,7 @@ resources:
       name: ASD-group09/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github.com/ASD-group09
+      endpoint: github.com_ASD-group09
 
 parameters:
  - name: image
