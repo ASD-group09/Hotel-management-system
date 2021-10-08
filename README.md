@@ -5,7 +5,8 @@ Login/Create - Zhengxin Cheng
 Payment - Ruihui Lai
 Order- Tiancheng Fu
 Logs - Haidi Huang
-Admin - Yixiao Zhang, Junfeng Chen
+User info Conection center - Yixiao Zhang
+Edit User info - Junfeng Chen
 
 
 
