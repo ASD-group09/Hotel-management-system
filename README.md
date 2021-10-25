@@ -1,7 +1,7 @@
 # Hotel-management-system
 The hotel management system is a software or platform that can improve the efficiency of hotel management. This system supports any browser for access.  This system contains 12 functions to serve customers and employees.  The functions are: Customer management, Staff management, Check-in management, Contact management, Order management, Feedback management, Electric control system, Payment Management, Administration Management, Access log, Purchasing management and Restaurant management.
 
-Login/Create - Zhengxin Cheng
+Login/Create/ staff management - Zhengxin Cheng
 Payment - Ruihui Lai
 Order- Tiancheng Fu
 Logs - Haidi Huang
